@@ -27,13 +27,12 @@
   
   .card-header {
     background: #2f2ce9;
-    padding: 30px;
     text-align: center;
   }
   
   .header-image {
     width: 100%;
-    max-width: 150px;
+    max-width: 100%;
   }
   
   .card-body {
